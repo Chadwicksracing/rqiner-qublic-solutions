@@ -1,2 +1,2 @@
-# rqiner-qublic-solutions
+# rqiner-qubic-solutions
 HiveOS Package for rqiner releases
